@@ -23,3 +23,24 @@ body{
     font-weight: 700;
 
 }
+.help_today{
+    text-align: center;
+}
+.donate{
+    display: flex;
+    width: 80%;
+}
+
+.donate_amount{
+    background-color: bisque;
+    margin: 2px;
+    padding: 1px 20px;
+}
+
+.scenario{
+    display: flex;
+}
+.scenario-part1{
+    font-size: 25px;
+    padding: 20px;
+}
