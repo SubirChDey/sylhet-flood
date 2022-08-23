@@ -3,14 +3,13 @@ body{
 }
 
 h1{
-    font-size: px;
+    font-size: 40px;
 }
 .top-1 {
     background-image: url(images/background.jpg);
     background-repeat: no-repeat;
     padding: 200px;
     text-align: center;
-    font-size: 24px;
     color: white;
     
     
@@ -27,18 +26,40 @@ h1{
 }
 .help_today{
     text-align: center;
+    margin: 40px;
 }
 .donate{
     display: flex;
+    margin-left: 300px;
     width: 80%;
 }
 
 .donate_amount{
     background-color: bisque;
-    margin: 2px;
-    padding: 1px 20px;
+    margin: 10px;
+    padding: 20px 40px;
+    font-size: 24px;
+    font-weight: 700;
 }
 
+.input-all{
+    height: 30px;
+    font-size: 22px;
+    margin: 20px;
+}
+.plan{
+    display: flex;
+    background-color: antiquewhite;
+    margin: 2px;
+    padding: 2px;
+}
+
+.donate-plan{
+    display: flex;
+    margin: 2px;
+    padding: 2px;
+    
+}
 .scenario{
     display: flex;
 }
@@ -49,6 +70,14 @@ h1{
 
 .subscription{
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+    padding: 50px;
+    background-color: aliceblue;
+    
 
 }
 
