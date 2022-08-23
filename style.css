@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.top-1 {
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    padding: 200px;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    
+    
+}
+
+.link-button {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(240, 61, 34);
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
